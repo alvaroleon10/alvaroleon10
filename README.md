@@ -2,22 +2,19 @@
 <h3 align="center">I am a student on IES Jacarandá</h3>
 
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvaroleon10&label=Profile%20views&color=0e75b6&style=flat" alt="alvaroleon10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvaroleon10" alt="alvaroleon10" /></a> </p>
 
 - 🔭 I’m currently studying on **web applications development**
 
-- 🌱 I’m currently learning **how to program mainly**
-
-- 👯 I’m looking to collaborate on **programmers projects**
+- 👯 I’m looking to collaborate on **programming projects**
 
 - 💬 Ask me about **my experience in this grade**
 
-- 📫 How to reach me **leonromeroalvaro@gmail.com**
+- 📫 How to reach me: **leonromeroalvaro@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
