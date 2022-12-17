@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Álvaro</h1>
 <h3 align="center">I am a student on IES Jacarandá</h3>
 
-![image](https://user-images.githubusercontent.com/115450050/208242259-0dc8e8e7-02ac-4d1a-b359-7854298e5c50.png)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvaroleon10&label=Profile%20views&color=0e75b6&style=flat" alt="alvaroleon10" /> </p>
